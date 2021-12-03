@@ -1,0 +1,25 @@
+{
+  "name": "ledu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "leduBridge.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/common": "^2.4.0",
+    "@openzeppelin/contracts": "^4.4.0",
+    "bn.js": "^5.2.0",
+    "dotenv": "^10.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.4.7",
+    "rlp": "^2.2.6",
+    "web3": "^1.6.1"
+  }
+}
